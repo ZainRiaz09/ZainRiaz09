@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Kool Form Pack](https://zainriaz09.github.io/kool_form_pack/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NEXT.JS**
 
-- 👯 I’m looking to collaborate on [Mini Finance](https://zainriaz09.github.io/Finance_mini/)
+- 👯 I’m looking to collaborate with [ Devellopers ]
 
 - 🤝 I’m worked on this [Transportio](https://zainriaz09.github.io/Transportio-Website/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/unleash-global-opportunities-modern-web-development-zain-riaz-ridre/?trackingId=S0QfI%2FC5StWRAvhdrCYGMQ%3D%3D](https://www.linkedin.com/pulse/unleash-global-opportunities-modern-web-development-zain-riaz-ridre/?trackingId=S0QfI%2FC5StWRAvhdrCYGMQ%3D%3D)
 
-- 💬 Ask me about **React, PHP,**
+- 💬 Ask me about **Web Developemnt(MERN STACK, PHP, MySQL),**
 
-- 📫 How to reach me **zainriazali9@gmail.com**
+- 📫 How to reach me **zainriazali9@gmail.com, +923094137097**
 
 - ⚡ Fun fact **As a web developer, I spend my days turning coffee into code and websites into digital masterpieces! ☕💻 #WebDevLife**
 
