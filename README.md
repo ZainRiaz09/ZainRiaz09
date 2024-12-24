@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS**
 
-- 👯 I’m looking to collaborate with [ Devellopers ]
+- 👯 I’m looking to collaborate with [ Developers ]
 
 - 🤝 I’m worked on this [Transportio](https://zainriaz09.github.io/Transportio-Website/)
 
